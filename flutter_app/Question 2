@@ -1,0 +1,1 @@
+In this there is a error that Concurrent Modification Exception one can't take input and output together it can either take inout or output.For putting both input and output this exception cant be used.
